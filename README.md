@@ -1,4 +1,4 @@
-# 🎬 MovieLibrary
+# MovieLibrary
 
 A simple Java application with a MySQL database running in a Docker container. This demo project showcases the integration of Spring Boot, MySQL, and Docker.
 
