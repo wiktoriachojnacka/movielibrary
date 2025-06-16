@@ -2,7 +2,7 @@
 
 A simple Java application with a MySQL database running in a Docker container. This demo project showcases the integration of Spring Boot, MySQL, and Docker.
 
-## 📦 Technologies
+## Technologies
 
 - **Java 17**
 - **Spring Boot**
@@ -10,7 +10,7 @@ A simple Java application with a MySQL database running in a Docker container. T
 - **Docker**
 - **Postman** (for testing the API)
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository:**
 
@@ -45,7 +45,7 @@ A simple Java application with a MySQL database running in a Docker container. T
    http://localhost:8080
    ```
 
-## 📬 Przykładowe endpointy
+## Endpoints
 
 | Method | Endpoint       | Description                         |
 |--------|----------------|------------------------------|
@@ -55,7 +55,7 @@ A simple Java application with a MySQL database running in a Docker container. T
 
 Test the API using Postman or any other HTTP client.
 
-## 🗂 Project Structure
+## Project Structure
 
 ```
 movielibrary/
